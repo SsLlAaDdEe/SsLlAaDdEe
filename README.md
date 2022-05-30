@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SsLlAaDdEe
-- 👀 I’m interested in ... basic coding
-- 🌱 I’m currently learning ... Python, C++, Java
-- 💞️ I’m looking to collaborate on ... all 3 listed above
+- 👀 I’m interested in ... web development, and UI/UX design 
+- 🌱 I’m currently learning ... Python, C++, C#, HTML.
+- 💞️ I’m looking to collaborate on ... HTML and Python.
 - 📫 How to reach me ... vickycom520@gmail.com
 
 <!---
