@@ -1,129 +1,60 @@
-# 👋 Hi, I'm Victory Arogundade
+# 👋 Hi, I'm Arogundade Victory  
 
-<div align="center">
-  
-### 💡 *Where Data Tells the Story*
+### 💡 *Transforming Data Into Intelligent Decisions*  
 
-**Data Analyst & Developer** | Transforming Raw Data into Actionable Insights
+Welcome to my GitHub profile!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/victoryarogundade)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoryarogundade05@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348061929640)
-
-</div>
+I'm a **Data Analyst & Developer** passionate about helping organizations uncover the insights hidden in their data.  
+I specialize in building **data-driven solutions** — from insightful dashboards to automated analytics workflows — using tools that bridge business understanding and technical precision.
 
 ---
 
-## 🎯 About Me
+## ⚙️ Core Competencies  
 
-I'm passionate about transforming complex datasets into compelling stories that drive business decisions. With expertise spanning from Excel dashboards to machine learning models, I bridge the gap between raw data and strategic insights.
+- **📊 Data Analytics & Visualization** — Turning data into actionable insights with **Power BI**, **Excel**, and **Python**.  
+- **🧮 Statistical & Predictive Analysis** — Applying statistical thinking and **machine learning** to guide smarter business decisions.  
+- **💾 Database Management** — Crafting efficient data pipelines and queries using **SQL** and **SQL Server**.  
+- **⚡ Process Automation** — Leveraging **Python scripting** to streamline reporting and repetitive tasks.  
+- **🧠 Continuous Learning** — Exploring the intersections of data, automation, and intelligent systems.  
 
-**My approach:** Every dataset has a narrative waiting to be discovered. I specialize in uncovering these stories through powerful visualizations, statistical rigor, and intelligent automation.
-
----
-
-## 🛠️ Core Competencies
-
-```python
-skills = {
-    "Analytics": ["Data Analysis", "Statistical Modeling", "A/B Testing", "Trend Analysis"],
-    "Visualization": ["Power BI", "Excel Dashboards", "Python (Matplotlib, Seaborn)"],
-    "Data Engineering": ["SQL", "Data Cleaning", "ETL Processes", "Database Optimization"],
-    "Machine Learning": ["Predictive Modeling", "Classification", "Regression", "Feature Engineering"],
-    "Automation": ["Python Scripting", "Process Optimization", "Workflow Automation"]
-}
-```
+> *I believe data becomes powerful when it tells a story that drives impact.*
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Tools & Technologies  
 
-<div align="center">
-
-### Data Analysis & Visualization
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Data Processing & Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge&logo=R&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 Featured Projects
+## 🚀 Featured Projects  
 
-<table>
-<tr>
-<td width="50%">
-
-### 📈 Excel Analytics
-Comprehensive business intelligence dashboards and advanced Excel automation solutions.
-
-**[→ Explore Projects](https://github.com/SsLlAaDdEe/Data-Science/tree/main/Excel%20Projects)**
-
-</td>
-<td width="50%">
-
-### 📊 Power BI Reports
-Interactive dashboards with real-time insights and KPI tracking for data-driven decisions.
-
-**[→ Explore Projects](https://github.com/SsLlAaDdEe/Data-Science/tree/main/Power%20BI%20Projects)**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📉 Statistical Analysis
-Hypothesis testing, regression models, and advanced statistical techniques for insight generation.
-
-**[→ Explore Projects](https://github.com/SsLlAaDdEe/Data-Science/tree/main/Statistics)**
-
-</td>
-<td width="50%">
-
-### 🤖 Machine Learning
-Predictive models and intelligent systems for automated decision-making and pattern recognition.
-
-**[→ Explore Projects](https://github.com/SsLlAaDdEe/ML)**
-
-</td>
-</tr>
-</table>
+| Focus Area | Project Repository |
+|-------------|--------------------|
+| **Excel Dashboards** | [Explore Excel Projects](https://github.com/SsLlAaDdEe/Data-Science/tree/main/Excel%20Projects) |
+| **Power BI Reports** | [Explore Power BI Projects](https://github.com/SsLlAaDdEe/Data-Science/tree/main/Power%20BI%20Projects) |
+| **Statistical Analysis** | [Explore Statistics Projects](https://github.com/SsLlAaDdEe/Data-Science/tree/main/Statistics) |
+| **Machine Learning Models** | [Explore ML Projects](https://github.com/SsLlAaDdEe/ML) |
 
 ---
 
-## 📫 Let's Collaborate
+## 🤝 Let’s Connect  
 
-I'm always open to discussing:
-- 💼 Data analytics opportunities
-- 🤝 Collaborative projects
-- 💡 Innovative data solutions
-- 📚 Knowledge sharing
-
-<div align="center">
-
-### Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victoryarogundade)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoryarogundade05@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348061929640)
+<p align="left">
+  <a href="https://linkedin.com/in/victoryarogundade" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:victoryarogundade05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/2348061929640" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
 
 ---
 
-### 💭 My Philosophy
-
-*"Data is the language of decisions — I translate it into clarity."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=SsLlAaDdEe&color=blueviolet&style=flat-square)
-
-</div>
+⭐ *“Data doesn’t just inform — it transforms when told with clarity.”*  
