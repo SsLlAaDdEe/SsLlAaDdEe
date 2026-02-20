@@ -76,7 +76,7 @@ Comprehensive business intelligence dashboards and advanced Excel automation sol
 ### 📊 Power BI Reports
 Interactive dashboards with real-time insights and KPI tracking for data-driven decisions.
 
-**[→ Explore Projects](https://github.com/SsLlAaDdEe/Data-Science/tree/main/Power%20BI%20Projects)**
+**[→ Explore Projects](https://github.com/SsLlAaDdEe/TeSA/tree/main/Power%20BI)**
 
 </td>
 </tr>
